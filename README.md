@@ -1,4 +1,4 @@
-This is a Movie Catalog Page created with React where you can search and like movies that you want to watch later.
+This is a Movie Catalog Page created with React where you can search and like movies that you want to watch later. I am using an API for fetching the movies, so the movies are up to date and the list is getting constantly updated.
 
 
 
